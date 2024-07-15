@@ -4,10 +4,10 @@ h1 {
 
 body{
     font-family:'Courier New', Courier, monospace;
-    /**Need to add bg image and fit, fill, blur and center**/
+    /**Added bg image and fit, fill, blur and center**/
+    background-image: url(Pictures/puppys.jpg);
     background-position: center;
     background-size: cover;
-    background-image: url(Pictures/puppys.jpg);
     height: 100%;
 }
 
