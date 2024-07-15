@@ -3,4 +3,9 @@ body{
 }
 p {
     font-size: 20px;
+    padding: 20px;
+}
+
+p :hover {
+    text-size:21px;
 }
