@@ -8,7 +8,7 @@ body{
     background-color:darkturquoise;
     background-position: center;
     background-size: cover;
-    background-image: url('Pictures/puppys.jpg');
+    background-image: url(Pictures/puppys.jpg);
     height: 100%;
 }
 
