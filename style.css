@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+body{
+    font-family:'Courier New', Courier, monospace;
+    /**Need to add bg image and fit, fill, blur and center**/
+    background-color:darkturquoise;
+}
+
+button {
+    padding: 1%;
+    size:0px;
+}
+
+p {
+    padding:1%;
+    text-wrap: none;
+    font-size: 20px;
+}
