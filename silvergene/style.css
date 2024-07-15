@@ -1,6 +1,12 @@
 body{
     font-family:'Courier New', Courier, monospace;
     font-weight:5px;
+    /**Added bg image and fit, fill, blur and center**/
+    background-image: url(Pictures/DSC_0533.jpg);
+    background-position: center;
+    background-size: cover;
+    top: 20px;
+    left: 20px;
 }
 p {
     font-size: 20px;
@@ -12,10 +18,5 @@ p :hover {
 }
 
 #BGimage{
-    /**Added bg image and fit, fill, blur and center**/
-    background-image: url(Pictures/DSC_0533.jpg);
-    background-position: center;
-    background-size: cover;
-    top: 20px;
-    left: 20px;
+    
 }
