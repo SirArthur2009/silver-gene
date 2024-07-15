@@ -1,5 +1,6 @@
 body{
     font-family:'Courier New', Courier, monospace;
+    font-weight:5px;
 }
 p {
     font-size: 20px;
@@ -12,7 +13,7 @@ p :hover {
 
 #BGimage{
     /**Added bg image and fit, fill, blur and center**/
-    background-image: url(Pictures/puppys.jpg);
+    background-image: url(Pictures/DSC_0500.jpg);
     background-position: center;
     background-size: cover;
     top: 20px;
