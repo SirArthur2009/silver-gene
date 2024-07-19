@@ -1,4 +1,4 @@
 document.getElementById("go-to-silver-genes").addEventListener(click, function(){
-    //Go to Silver gene
-    window.location.href = window.location.href + "silvergene/The Silver Gene.html"
+    let newWindow = window.open('https://sirarthur2009.github.io/silver-gene/silvergene/The Silver Gene.html');
+    newWindow.focus();
 })
