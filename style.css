@@ -5,13 +5,6 @@ h1 {
 body{
     font-family:'Courier New', Courier, monospace;
     font-weight: 10px;
-    /**Added bg image and fit, fill, blur and center**/
-    background-image: url(Pictures/puppys.jpg);
-    background-repeat:  no-repeat;
-    background-position: center;
-    background-size: cover;
-    top: 20px;
-    left: 20px;
 }
 
 #BGimage{
