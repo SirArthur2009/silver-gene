@@ -2,7 +2,7 @@ body{
     font-family:'Courier New', Courier, monospace;
     font-weight:5px;
     /**Added bg image and fit, fill, blur and center**/
-    background-image: url(Pictures/DSC_0533.jpg);
+    background-image: url(https://github.com/SirArthur2009/silver-gene/tree/071e52ed36064d9096eaaef8d2635536f1ec94d7/Pictures);
     background-position: center;
     background-size: cover;
     top: 20px;
