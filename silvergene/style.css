@@ -29,6 +29,10 @@ h3 {
     padding-right: 25px;
     text-align: center;
 }
+h2 {
+    padding-left: 20px;
+    padding-right: 25px;
+}
 .no-centering{
     text-align: left;
 }
