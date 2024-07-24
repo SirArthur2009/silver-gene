@@ -1,7 +1,10 @@
 h1 {
     text-align: center;
 }
-
+#puppy-pic {
+    width: 20%;
+    height: 30%
+}
 body{
     font-family:'Courier New', Courier, monospace;
     font-weight: 10px;
