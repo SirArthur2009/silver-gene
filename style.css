@@ -7,6 +7,9 @@ h1 {
     position: absolute;
     left: 45%;
 }
+#pup-pic {
+    fill: fit;
+}
 body{
     font-family:'Courier New', Courier, monospace;
     font-weight: 10px;
