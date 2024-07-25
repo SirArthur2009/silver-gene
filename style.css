@@ -3,9 +3,8 @@ h1 {
 }
 #puppy-pic {
     width: 20%;
-    height: 25%;
+    height: 50px;
     position: absolute;
-    left: 75%;
 }
 #pup-pic {
     fill: fit;
