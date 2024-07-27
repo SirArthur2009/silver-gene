@@ -15,7 +15,7 @@ body{
     background-color: teal;
     background-image: url(Pictures/dusty800.png);
     background-repeat: no-repeat;
-    background-size: fill;
+    background-size: cover;
 }
 
 #BGimage{
