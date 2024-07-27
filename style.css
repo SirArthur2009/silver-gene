@@ -25,7 +25,8 @@ button {
 }
 
 p {
-    padding:5%;
+    padding-left:5%;
+    padding-right:5%;
     text-wrap: none;
     font-size: 25px;
 }
