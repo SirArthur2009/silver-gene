@@ -11,11 +11,9 @@ h1 {
 }
 body{
     font-family:'Courier New', Courier, monospace;
-    font-weight: 10px;
+    font-weight: bold;
     background-color: teal;
     background-image: url(Pictures/dusty600.png);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 #BGimage{
