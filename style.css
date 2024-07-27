@@ -12,6 +12,7 @@ h1 {
 body{
     font-family:'Courier New', Courier, monospace;
     font-weight: 10px;
+    background-color: teal;
 }
 
 #BGimage{
