@@ -1,7 +1,4 @@
-h1 {
-    text-align: center;
-    
-}
+
 #puppy-pic {
     width: 20%;
     height: 50px;
@@ -45,4 +42,8 @@ p {
     text-wrap: none;
     font-size: 25px;
     color: red;
+}
+h1 {
+    text-align: center;
+    color:black;
 }
