@@ -14,6 +14,7 @@ body{
     font-weight: bold;
     background-color: teal;
     background-image: url(Pictures/dusty600.png);
+    font-color: #FF0000;
 }
 
 /* CSS rules for mobile */
