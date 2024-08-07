@@ -4,9 +4,7 @@
     height: 50px;
     position: absolute;
 }
-#pup-pic {
-    fill: fit;
-}
+
 body{
     font-family:'Courier New', Courier, monospace;
     font-weight: bold;
@@ -28,13 +26,12 @@ body{
 
 button {
     padding: 1%;
-    size:0px;
 }
+
 
 p {
     padding-left:5%;
     padding-right:5%;
-    text-wrap: none;
     font-size: 25px;
     color: red;
 }
